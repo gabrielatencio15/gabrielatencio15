@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gabrielatencio15
 - 👀 I’m interested in learning new languages and frameworks!
-- 🌱 I’m currently learning DevOps and Angular.
+- 🌱 I’m currently learning DevOps, React and Angular.
 - 💞️ I’m looking to collaborate on good projects.
 - 📫 How to reach me: https://www.linkedin.com/in/gabriel-atencio
 
